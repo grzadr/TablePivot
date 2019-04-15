@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Vim files
+.*.sw?
+
+# Build direcotry
+**/*build*/**
